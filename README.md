@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastApi, Django and MongoDB**
 
-- 👨‍💻 All of my projects are available at [Github](?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/iamamanporwal?tab=repositories)
 
 - 💬 Ask me about **Computer Vision and Robotics**
 
