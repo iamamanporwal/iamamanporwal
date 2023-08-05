@@ -24,5 +24,5 @@
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamamanporwal&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
