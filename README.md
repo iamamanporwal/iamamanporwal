@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Porwal</h1>
+<h1 align="center">Hi 👋, I'm Aman Porwal</h1> 
 <h3 align="center">Passionate about opensource and data science.</h3>
 
 - 🔭 I’m currently working on **Research paper based on mixed reality interaction.**
@@ -26,3 +26,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=iamamanporwal&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://leetcode-stats-six.vercel.app/?username=iamamanporwal&theme=dark)
 
+![Views](https://komarev.com/ghpvc/?username=iamamanporwal&style=flat-square)
