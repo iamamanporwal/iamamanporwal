@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aman07porwal@gmail.com**
 
-- 📄 Resume [Link](https://drive.google.com/)
+- 📄 Resume [Link](https://drive.google.com/file/d/1Ab5jEgE34-xS7IujCaQjeTgWE9LbojXE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
