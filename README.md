@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Porwal</h1> 
-<h3 align="center">Passionate about opensource and data science.</h3>
+<h3 align="center">Passionate about opensource and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **Research paper based on mixed reality interaction.**
+- 🔭 I’m currently working on **OPENSOURCE DEEPFAKE VOICE DETECTION AND FRAUD/SCAM CALL ANALYSIS APP**
 
-- 🌱 I’m currently learning **FastApi, Django and MongoDB**
+- 🌱 I’m currently learning **Machine Learning and deep learning**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/iamamanporwal?tab=repositories)
 
