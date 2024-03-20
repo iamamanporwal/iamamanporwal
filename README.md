@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Porwal</h1> 
 <h3 align="center">Passionate about opensource and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **OPENSOURCE DEEPFAKE VOICE DETECTION AND FRAUD/SCAM CALL ANALYSIS APP**
+- 🔭 I’m currently working on **AI BASED CLEANROOM TO SAVE ENERGY USING LSTMs & RNN**
 
 - 🌱 I’m currently learning **Machine Learning and deep learning**
 
