@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Porwal</h1> 
 <h3 align="center">Passionate about opensource and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **AI BASED SEMICONDUCTOR FAB CLEANROOM TO SAVE ENERGY USING LSTMs & RNN**
+- 🔭 I’m currently working on **Ai based Video2Video Model*
 
 - 🌱 I’m currently learning **Machine Learning and deep learning**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aman07porwal@gmail.com**
 
-- 📄 Resume [Link](https://drive.google.com/file/d/1JIdAcDcA8nt776hhR4RJgKBth7Dtxyt9/view?usp=sharing)
+- 📄 Resume [Link](https://drive.google.com/file/d/1IYbSNaeEksAnZ6rSWlI87A5klCx1peIE/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
