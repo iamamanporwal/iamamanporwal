@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Porwal</h1> 
 <h3 align="center">Passionate about opensource and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **Ai based Video2Video Model**
+- 🔭 I’m currently working on **Text To 3D Generative Ai Model**
 
 - 🌱 I’m currently learning **Machine Learning and deep learning**
 
