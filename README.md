@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Porwal</h1> 
 <h3 align="center">Passionate about opensource and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **Text To 3D Generative Ai Model**
-
-- 🌱 I’m currently learning **Machine Learning and deep learning**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/iamamanporwal?tab=repositories)
-
-- 💬 Ask me about **Computer Vision and Robotics**
-
-- 📫 How to reach me **aman07porwal@gmail.com**
-
-- 📄 Resume [Link](https://drive.google.com/file/d/1yTg_Pzgm6wcLS-ph-g_2JR2A24GJEqX2/view)
+- Building an AI 3D Editor - Which does 3D in 3 Clicks! - Vi3W.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
